@@ -98,7 +98,7 @@ const Auth = () => {
             sx={{ borderRadius: 3, marginTop: 3 }}
             color="warning"
           >
-            Submit
+            Signin
           </Button>
           <Button
             onClick={() => setIsSignup(!isSignup)}
